@@ -1,0 +1,11 @@
+flask
+librosa
+numpy
+scikit-learn
+pydub
+ffmpeg-python
+soundfile
+joblib
+tqdm
+matplotlib
+gunicorn
